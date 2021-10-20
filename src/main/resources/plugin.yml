@@ -1,0 +1,11 @@
+name: DevRoomCrates
+version: '${project.version}'
+main: me.austin.devroomcrates.DevRoomCrates
+api-version: 1.17
+authors: [ Austin ]
+commands:
+  crates:
+    description: DevRoomCrates Command
+    aliases:
+      - c
+      - crate

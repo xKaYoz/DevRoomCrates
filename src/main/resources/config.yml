@@ -1,0 +1,13 @@
+Prefix: "&c&lDRCrates"
+MySQL:
+  Connection:
+    Host: localhost
+    Username: test
+    Password: password
+    Port: 3306
+    Database: database
+  Tables:
+    Crates: devroomcrates_crates
+    Users: devroomcrates_users
+    Locations: devroomcrates_locations
+    Rewards: devroomcrates_rewards
